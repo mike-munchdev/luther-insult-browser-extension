@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Luther Insult Bot Extension",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://ergofabulous.org/luther/insult-list.php"],
+      "js": ["content.js"]
+    }
+  ]
+}

@@ -100,6 +100,7 @@ console.log("Ready to get Luther's insults");
 - git push -u origin master
 
 2. You can find a link to code on GitHub below in the description of this video
-3. Don't forget to like, comment, subscribe and share so we can keep bring you this free content.
+3. Don't forget to like, comment, subscribe and share so can build the channel and bring you more free content.
 4. What would you like to see next?
-5. Alright, so you all on the next one! Happy Coding!
+5. Like on Facebook, follow on Twitter, Parler and Instagram, and checkout the new Patreon page if you'd like to support the work that I'm doing.
+6. Alright, so you all on the next one! Happy Coding!

@@ -7,5 +7,6 @@
       "matches": ["https://ergofabulous.org/luther/insult-list.php"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "permissions": ["clipboardWrite"]
 }
